@@ -13,4 +13,4 @@ hello baidu! hello baidu
 hello baidu! hello baidu
 hello baidu! hello baidu
 hello baidu! hello baidu master test
-hello baidu! hello baidu
+hello baidu! hello baidu hot-fix test
